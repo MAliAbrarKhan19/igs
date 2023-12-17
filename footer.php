@@ -1,12 +1,15 @@
 
     <!-- footer -->
     <footer 
-      class="container-fluid py-5" 
-      style="background-color: silver;">
+      class="container-fluid py-5 px-4" 
+      style="
+      background-color: silver;
+      box-shadow: 0px 0px 20px 10px;
+      ">
       
         <div class="row">
           <div class="col-6 col-md-2 mb-3">
-            <h5>Our Services</h5>
+            <h5>Services</h5>
             <ul class="nav flex-column">
               <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Live Video Consultation</a></li>
               <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Doctor’s Appointment</a></li>
@@ -16,14 +19,15 @@
             </ul>
           </div>
 
-          <div class="col-6 col-md-2 mb-3">
+          <div class="col-6 col-md-2 mb-3" style="margin-top: 32px;">
             <!-- <h5>Section</h5> -->
             <ul class="nav flex-column">
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Features</a></li>
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Pricing</a></li>
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs</a></li>
-              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Passport Solutions</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Flight Ticketing</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Hotel Selection/Bookings</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Airport Pickup/Drop</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Travel Planning/Budgeting</a></li>
+              <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Air Ambulance</a></li>
             </ul>
           </div>
 
@@ -41,7 +45,7 @@
               <div class="d-flex flex-column flex-sm-row w-100 gap-2">
                 <label for="newsletter1" class="visually-hidden">Email address</label>
                 <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-                <button class="btn btn-primary" type="button">Subscribe</button>
+                <button class="btn btn-danger" type="button">Subscribe</button>
               </div>
             </form>
           </div>
