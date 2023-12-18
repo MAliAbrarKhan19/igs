@@ -17,7 +17,7 @@
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img src="./image/igs medical tourism LOGO.png" class="" width="100px">
+            <img src="./image/igs medical tourism LOGO.png" class="" width="10%">
             <b style="color: red;">
               IGS
             </b>
@@ -32,7 +32,7 @@
           <div class="collapse navbar-collapse" id="navbarScroll">
             <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link active" aria-current="page" href="./#home_carousal">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">About</a>
