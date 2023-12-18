@@ -1,10 +1,10 @@
 
     <!-- footer -->
     <footer 
-      class="container-fluid py-5 px-4" 
+      class="container-fluid py-5 px-4 mt-5" 
       style="
       background-color: silver;
-      box-shadow: 0px 0px 20px 10px;
+      box-shadow: 0px 2px 18px 18px;
       ">
       
         <div class="row">
